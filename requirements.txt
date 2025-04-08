@@ -1,0 +1,7 @@
+python-telegram-bot==20.4
+web3
+eth-account
+python-dotenv
+pymongo
+requests
+croniter
