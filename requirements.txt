@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]
+web3
+eth-account
+python-dotenv
+pymongo
+requests
+croniter
